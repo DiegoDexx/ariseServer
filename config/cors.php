@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['*'], // Update this to match your frontend URL
+    'allowed_origins' => ['https://arisewebsite.com'], // Update this to match your frontend URL
 
     'allowed_origins_patterns' => [],
 
